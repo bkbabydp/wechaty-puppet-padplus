@@ -71,7 +71,7 @@
   },
   "dependencies": {
     "array-flatten": "^3.0.0",
-    "aws-sdk": "^2.510.0",
+    "aws-sdk": "^2.604.0",
     "axios": "^0.19.0",
     "brolog": "^1.6.5",
     "flash-store": "^0.14.1",
